@@ -82,7 +82,7 @@ body img{
     box-shadow: 2px 2px #82c3a6;
 }
 
-.principal {
+.galeria {
     text-align: center;
 }
 .grilla{
@@ -180,8 +180,8 @@ footer div p a {
   }
 
 div.fila img:first-child {
-    -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
-    filter: blur(5px);
+    -webkit-filter: blur(10px); /* Safari 6.0 - 9.0 */
+    filter: blur(10px);
 }
 
 div.fila img:nth-child(even){
@@ -193,7 +193,6 @@ div.fila img:nth-child(3){
     -webkit-filter: sepia(90%); /* Safari 6.0 - 9.0 */
     filter: sepia(90%);
 }
-
 
 .fotos{
     
